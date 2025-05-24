@@ -1,0 +1,11 @@
+employee_id,name,age,department,salary,email
+1,John Doe,28.0,Sales,55000.0,john.doe@example.com
+2,Jane Smith,34.0,HR,62000.0,jane.smith@example.com
+3,Bob Johnson,34.0,Marketing,58000.0,bob.johnson@example.com
+4,Alice Williams,29.0,Marketing,62000.0,alice.williams@example.com
+5,Chris Evans,45.0,Sales,70000.0,alice.williams@example.com
+6,Emily Davis,38.0,HR,67000.0,emily.davis@example.com
+7,Alice Williams,41.0,HR,65000.0,michael.brown@example.com
+8,Mary Clark,30.0,Sales,59000.0,mary.clark@example.com
+9,James Lewis,37.0,HR,62000.0,james.lewis@example.com
+10,Patricia Taylor,32.0,HR,66000.0,patricia.taylor@example.com

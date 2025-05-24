@@ -1,0 +1,5 @@
+employee_id,name,age,department,salary,email
+1,John Doe,28.0,Sales,55000.0,john.doe@example.com
+6,Emily Davis,38.0,HR,67000.0,emily.davis@example.com
+8,Mary Clark,30.0,Sales,59000.0,mary.clark@example.com
+10,Patricia Taylor,32.0,HR,66000.0,patricia.taylor@example.com
