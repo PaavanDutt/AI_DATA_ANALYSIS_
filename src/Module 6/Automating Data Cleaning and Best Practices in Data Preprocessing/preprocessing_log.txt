@@ -14,3 +14,11 @@ Performed Min-Max Scaling on numeric columns.
 Performed Robust Scaling on numeric columns.
 Performed MaxAbs Scaling on numeric columns.
 Completed data preprocessing.
+Started data preprocessing.
+Dropped missing values from dataset.
+Filled missing values with median/mode.
+Applied Winsorization for outlier capping.
+Performed Min-Max Scaling on numeric columns.
+Performed Robust Scaling on numeric columns.
+Performed MaxAbs Scaling on numeric columns.
+Completed data preprocessing.
