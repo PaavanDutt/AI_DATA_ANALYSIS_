@@ -1,0 +1,11 @@
+CustomerID,Name,Email,Phone,Gender
+1,Alice,alice@example.com,123-456-7890,Female
+2,Bob,bob@example.com,234-567-8901,Male
+3,Charlie,charlie@example.com,,Male
+4,David,david@example.com,345-678-9012,M
+5,Eva,eva@example.com,456-789-0123,F
+6,Frank,frank@example.com,567-890-1234,Male
+7,Gina,alice@example.com,678-901-2345,Female
+8,Henry,,789-012-3456,Male
+9,Ivy,ivy@example.com,890-123-4567,Female
+10,Jack,jack@example.com,901-234-5678,Male
