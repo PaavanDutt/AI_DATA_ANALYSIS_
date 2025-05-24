@@ -1,0 +1,9 @@
+ID,Name,Age,Price,Category,OrderDate
+1,Alice,25,19.99,Electronics,2023-01-10
+2,Bob,30,15.50,Clothing,2023-01-15
+3,Charlie,27,22.00,Electronics,2023-02-05
+4,David,twenty-eight,30.00,Toys,2023-02-10
+5,Eva,35,invalid,Grocery,2023-03-12
+6,Alice,25,19.99,Electronics,2023-01-10
+7,Fred,40,45.00,Clothing,invalid_date
+8,Grace,,55.00,Clothing,2023-04-01
