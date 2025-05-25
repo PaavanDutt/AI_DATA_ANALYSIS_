@@ -1,0 +1,6 @@
+Name,Age,Gender,Score,Registered
+Alice,25,Female,85,2023-01-15
+Bob,30,Male,90,2023-02-10
+Charlie,,Male,78,2023-01-20
+David,22,,88,
+Eva,29,Female,,2023-02-05
