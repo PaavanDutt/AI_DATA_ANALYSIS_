@@ -1,0 +1,14 @@
+2025-05-25 05:28:25,235 - INFO - Data Quality Metrics: {'id_completeness': 1.0, 'name_completeness': 0.75, 'age_completeness': 0.75, 'status_completeness': 1.0, 'status_accuracy': 1.0}
+2025-05-25 05:29:32,132 - INFO - Data Quality Metrics: {'id_completeness': 1.0, 'name_completeness': 0.75, 'age_completeness': 0.75, 'status_completeness': 1.0, 'status_accuracy': 1.0}
+2025-05-25 05:31:26,855 - INFO - Data Quality Metrics: {'id_completeness': 1.0, 'name_completeness': 0.75, 'age_completeness': 0.75, 'status_completeness': 1.0, 'status_accuracy': 1.0}
+2025-05-25 05:35:12,674 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:35:42,711 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:36:12,746 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:36:42,782 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:37:01,070 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:37:12,815 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:37:42,852 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:38:12,894 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:38:42,929 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:39:12,965 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
+2025-05-25 05:39:43,003 - INFO - Quality Metrics: {'missing_rate': {'name': 0.143, 'age': 0.143, 'salary': 0.143}, 'mismatch_rate': {'name': 0.0, 'age': 0.857, 'salary': 0.857}}
