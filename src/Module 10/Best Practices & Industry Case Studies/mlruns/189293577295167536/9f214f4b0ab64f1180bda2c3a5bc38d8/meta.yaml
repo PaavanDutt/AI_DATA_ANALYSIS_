@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/189293577295167536/9f214f4b0ab64f1180bda2c3a5bc38d8/artifacts
+end_time: 1748441875842
+entry_point_name: ''
+experiment_id: '189293577295167536'
+lifecycle_stage: active
+run_id: 9f214f4b0ab64f1180bda2c3a5bc38d8
+run_name: rumbling-yak-21
+run_uuid: 9f214f4b0ab64f1180bda2c3a5bc38d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748441869909
+status: 3
+tags: []
+user_id: vscode
