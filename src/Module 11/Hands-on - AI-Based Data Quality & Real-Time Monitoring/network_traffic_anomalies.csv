@@ -1,0 +1,2 @@
+duration,src_bytes,dst_bytes,wrong_fragment,urgent,count,srv_count,anomaly
+1000,50000,60000,0,0,50,50,-1
