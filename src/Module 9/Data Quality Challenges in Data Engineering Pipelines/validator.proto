@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package validator;
+
+// Request message
+message UserRequest {
+  string username = 1;
+  int32 age = 2;
+  string email = 3;
+}
+
+// Response message
+message ValidationResult {
+  bool is_valid = 1;
+  string message = 2;
+}
+
+// Validation service
+service ValidatorService {
+  rpc Validate (UserRequest) returns (ValidationResult);
+}
