@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/953767941138621561/5211ee3c32d64ddfa4b65f57543ec45d/artifacts
+end_time: 1748441949660
+entry_point_name: ''
+experiment_id: '953767941138621561'
+lifecycle_stage: active
+run_id: 5211ee3c32d64ddfa4b65f57543ec45d
+run_name: awesome-colt-117
+run_uuid: 5211ee3c32d64ddfa4b65f57543ec45d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748441946011
+status: 3
+tags: []
+user_id: vscode
